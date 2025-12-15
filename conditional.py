@@ -10,3 +10,4 @@ elif colour == "yellow":
 
 else:
     print("not a traffic light colour")
+
