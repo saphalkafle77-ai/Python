@@ -15,3 +15,7 @@ print(student.get("name"))  # find value it will print none if using get
 
 dict_student = list(student.values())
 print(dict_student)
+
+
+student.update({"COllege": "cab"})
+print(student)
